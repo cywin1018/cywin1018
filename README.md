@@ -14,17 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&text=Cywin`s GitHub! )
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eden0821)](https://solved.ac/{eden0821})
+
+
 <div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Cywin`s%20GitHub!&fontSize=90" />
+	<h3 >:books:Tech & launguages:books:</h3>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TS&logoColor=white" />
+ 	 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+  	 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+	<br>
+	<div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cywin1018&layout=compact">
+	</div>
+	<br>
+	<div>
+		<h3>:black_nib:Tools:black_nib:</h3>
+	<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
+	 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+	</div>
+	<br>
 </div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cywin1018&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=cywin1018&show_icons=true">
+<div align="center">
+	<h3 >:round_pushpin:Git status:round_pushpin:</h3>
+ <img src="https://github-readme-stats.vercel.app/api?username=cywin1018&show_icons=true">
+	<h3 >:rocket:Problem Solves:rocket:</h3>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eden0821"/>
 </div>
+
 
