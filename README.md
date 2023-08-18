@@ -26,10 +26,10 @@ Here are some ideas to get you started:
  	 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   	 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-	<br>
+<!-- 	<br>
 	 <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=firebase&logoColor=white" />
 	 <img src="https://img.shields.io/badge/Java-FF160B?style=flat&logo=openjdk&logoColor=white" />
-	 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+	 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" /> -->
 	<br>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cywin1018&layout=compact">
