@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 	<br>
  	 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+	 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />
   	 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <!-- 	<br>
 	 <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=firebase&logoColor=white" />
