@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 		<h3>:black_nib:Tools:black_nib:</h3>
 		<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 		
-	<br>
+	
 </div>
 <div align="center">
 	<h3 >:round_pushpin:Git status:round_pushpin:</h3>
