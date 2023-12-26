@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 	<br>
 		<h3>:black_nib:Tools:black_nib:</h3>
 		<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-		<br>
-		<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
-		<img src="https://img.shields.io/badge/IntelliJ-0076D6?style=flat&logo=intellijidea&logoColor=white" />
+		
 	<br>
 </div>
 <div align="center">
