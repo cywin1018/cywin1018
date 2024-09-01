@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<br>
  	 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-	 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
 	 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />
   	 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <!-- 	<br>
@@ -32,11 +31,15 @@ Here are some ideas to get you started:
 	 <img src="https://img.shields.io/badge/Java-FF160B?style=flat&logo=openjdk&logoColor=white" />
 	 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" /> -->
 	<br>
+	 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
+	 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cywin1018&layout=compact">
 	<br>
 		<h3>:black_nib:Tools:black_nib:</h3>
 		<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+ 		 <img src="https://img.shields.io/badge/Clion-000000?style=flat&logo=Clion&logoColor=white" />
+     <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" />
 		
 	
 </div>
