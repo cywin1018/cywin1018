@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 	<h3 >:round_pushpin:Git status:round_pushpin:</h3>
  <img src="https://github-readme-stats.vercel.app/api?username=cywin1018&show_icons=true">
 	<h3 >:rocket:Problem Solves:rocket:</h3>
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eden0821"/>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yongkie"/>
 </div>
 
 
